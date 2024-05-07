@@ -6,18 +6,20 @@ layout: page
 
 <img src="https://TopGreenHand.github.io/images/aoyang.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yang Ao (敖杨)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+Currently, I am a third-year master's student at **Guizhou Normal University**, Ecohydrology Remote Sensing Laboratory, supervised by [Prof. Xu Zhou](https://dhxy.gznu.edu.cn/info/1028/1545.htm), majoring in "Cartography and GIS". I am going to work as a research assistant in the team of Land Use/Cover Change and its Ecological and Climate Effects in Arid Zones, Remote Sensing and GIS Applications at the Xinjiang Institute of Ecology and Geography, University of Chinese Academy of Sciences, under the supervision of [Prof. Geping Luo](https://egi.cas.cn/sourcedb/zw/zjrc/yjy/200908/t20090805_2330197.html).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ayrookiegiser@gmail.com* or *aoyang@gznu.edu.cn*
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **June 2024-Future: **Xinjiang Institute of Ecology and Geography, CAS (Research Assistant)
+- **September 2021-June 2024: **Guizhou Normal University (M.Sc., Cartography and GIS)
+- **September 2017-June 2021: ****North China University of Water Resources and Hydropower (B.Sc., Geographic Information Science)
+- **September 2013-June 2017: **Fenggang County No. 1 Middle School (High School)
+- **September 2010-June 2013: **Fenggang County No. 4 Middle School (Middle School)
+- **September 2003-June 2010: **Guanba Completion Primary School (Elementary School)
 
 ---
 
