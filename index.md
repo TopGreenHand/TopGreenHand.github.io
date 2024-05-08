@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **June 2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (Ph.D., / Research Assistant Cartography and GIS)
+- **June 2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (Ph.D. / Research Assistant, Cartography and GIS)
 
 - **September 2021-June 2024:** Guizhou Normal University (M.Sc., Cartography and GIS)
 
