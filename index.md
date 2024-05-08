@@ -14,19 +14,19 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **June 2024-Future: **Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (Ph.D., / Research Assistant Cartography and GIS)
+- **June 2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (Ph.D., / Research Assistant Cartography and GIS)
 
-- **September 2021-June 2024: **Guizhou Normal University (M.Sc., Cartography and GIS)
+- **September 2021-June 2024:** Guizhou Normal University (M.Sc., Cartography and GIS)
 
-- **September 2017-June 2021: **North China University of Water Resources and Hydropower (B.Sc., Geographic Information Science)
+- **September 2017-June 2021:** North China University of Water Resources and Hydropower (B.Sc., Geographic Information Science)
 
-- **September 2013-June 2017: **Fenggang County No. 1 Middle School (High School)
+- **September 2013-June 2017:** Fenggang County No. 1 Middle School (High School)
 
-- **September 2010-June 2013: **Fenggang County No. 4 Middle School (Middle School)
+- **September 2010-June 2013:** Fenggang County No. 4 Middle School (Middle School)
 
-- **September 2003-June 2010: **Guanba Completion Primary School (Elementary School)
+- **September 2003-June 2010:** Guanba Completion Primary School (Elementary School)
 
-  <img src="https://TopGreenHand.github.io/images/aoyangstudyload.tif" class="floatpic">
+  <img src="https://TopGreenHand.github.io/images/First/xinjiang3.jpg" class="floatpic">
 
 ---
 
@@ -44,11 +44,10 @@ My research focuses on **ecohydrological remote sensing** and **ecosystem carbon
 
 ## News and Updates
 
-- **April 2024: **PhD interview at Xinjiang Institute of Ecology and Geography
+- **April 2024:** PhD interview at Xinjiang Institute of Ecology and Geography
 
 <div class="third">
 <img src="https://TopGreenHand.github.io/images/First/xinjiang1.jpg">
 <img src="https://TopGreenHand.github.io/images/First/xinjiang2.jpg">
 <img src="https://TopGreenHand.github.io/images/First/xinjiang3.jpg">
 </div>
-
