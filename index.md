@@ -26,7 +26,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **September 2003-June 2010:** Guanba Completion Primary School (Elementary School)
 
-  <img src="https://TopGreenHand.github.io/images/First/xinjiang3.jpg" class="floatpic">
+  <div class="one">
+      <img src="https://TopGreenHand.github.io/images/aoyangstudyload.jpg">
+  </div>
 
 ---
 
