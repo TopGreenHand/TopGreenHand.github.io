@@ -6,11 +6,18 @@ layout: page
 
 <img src="https://TopGreenHand.github.io/images/aoyang.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yang Ao (敖杨)**.
+Here is **Yang Ao (TopGreenHand, 敖杨)**. I think I'm a rookie GISer.
 
-Currently, I am a third-year master's student at **Guizhou Normal University**, Ecohydrology Remote Sensing Laboratory, supervised by **[Prof. Xu Zhou](https://dhxy.gznu.edu.cn/info/1028/1545.htm)**, majoring in "Cartography and GIS". I am going to work as a research assistant in the team of Land Use/Cover Change and its Ecological and Climate Effects in Arid Zones, Remote Sensing and GIS Applications at the Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, under the supervision of **[Prof. Geping Luo](https://egi.cas.cn/sourcedb/zw/zjrc/yjy/200908/t20090805_2330197.html)**.
+Currently, I am a third-year master's student at **Guizhou Normal University**, Ecohydrology Remote Sensing Laboratory, supervised by **[Prof. Xu Zhou](https://dhxy.gznu.edu.cn/info/1028/1545.htm)**, majoring in GIS. I am going to work as a research assistant in the team of Land Use/Cover Change and its Ecological and Climate Effects in Arid Zones at the Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, under the supervision of **[Prof. Geping Luo](https://egi.cas.cn/sourcedb/zw/zjrc/yjy/200908/t20090805_2330197.html)**.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - ***ayrookiegiser@gmail.com*** or ***aoyang@gznu.edu.cn***.
+
+<div style="text-align: center;">
+    <a href="D:\AyGithub\TopGreenHand.github.io\images\logo\QQ_QR_code.png" target="_blank"><img src="D:\AyGithub\TopGreenHand.github.io\images\logo\WeChat.png" alt="Image 2" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
+    <a href="D:\AyGithub\TopGreenHand.github.io\images\logo\QQ_QR_code.png" target="_blank"><img src="D:\AyGithub\TopGreenHand.github.io\images\logo\QQ.jpg" alt="Image 2" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
+    <a href="https://www.xiaohongshu.com/user/profile/5ea7856e000000000100076b?xhsshare=CopyLink&appuid=5ea7856e000000000100076b&apptime=1716814652" target="_blank">       <img src="D:\AyGithub\TopGreenHand.github.io\images\logo\Xiaohongshu.jpg" alt="Image 1" style="width: 38px; height: 38px; margin-right: 5px;"></a>  
+    <a href="https://space.bilibili.com/317954769?spm_id_from=333.1007.0.0" target="_blank"><img src="D:\AyGithub\TopGreenHand.github.io\images\logo\Bilibili.jpg" alt="Image 3" style="width: 38px; height: 38px;"></a>
+</div>
 
 ## Academic Background
 
