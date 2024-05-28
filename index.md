@@ -13,7 +13,7 @@ Currently, I am a third-year master's student at **Guizhou Normal University**, 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - ***ayrookiegiser@gmail.com*** or ***aoyang@gznu.edu.cn***.
 
 <div style="text-align: center;">
-    <a href="https://www.researchgate.net/profile/Yang-Ao-8" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/Researchgate.png" alt="Research" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
+    <a href="https://www.researchgate.net/profile/Yang-Ao-8" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/icons8-rg.png" alt="Research" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
     <a href="https://orcid.org/0000-0002-6350-5095" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/ORCID-icon.png" alt="Research" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
     <a href="https://TopGreenHand.github.io/images/logo/QQ_QR_code.png" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/WeChat.png" alt="QQ" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
     <a href="https://TopGreenHand.github.io/images/logo/QQ_QR_code.png" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/QQ.jpg" alt="WeChat" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
