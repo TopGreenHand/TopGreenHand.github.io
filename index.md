@@ -13,7 +13,7 @@ Currently, I am a third-year master's student at **Guizhou Normal University**, 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - ***ayrookiegiser@gmail.com*** or ***aoyang@gznu.edu.cn***.
 
 <div style="text-align: center;">
-    <a href="https://www.researchgate.net/profile/Yang-Ao-8" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/Researchgate.png" alt="Research" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
+    <a href="https://www.researchgate.net/profile/Yang-Ao-8" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/icons8-rg.png" alt="Research" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
     <a href="https://orcid.org/0000-0002-6350-5095" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/ORCID-icon.png" alt="Research" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
     <a href="https://TopGreenHand.github.io/images/logo/QQ_QR_code.png" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/WeChat.png" alt="QQ" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
     <a href="https://TopGreenHand.github.io/images/logo/QQ_QR_code.png" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/QQ.jpg" alt="WeChat" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
@@ -21,16 +21,17 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
     <a href="https://space.bilibili.com/317954769?spm_id_from=333.1007.0.0" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/Bilibili.jpg" alt="Bilibili" style="width: 38px; height: 38px;"></a>
 </div>
 
+
 ------
 
 ## Academic Background
 
-:arrows_counterclockwise:**2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (doctoral)
-        :arrow_up:**2021-2024:** Guizhou Normal University (master's degree)
-        :arrow_up:**2017-2021:** North China University of Water Resources and Hydropower (undergraduate)
-        :arrow_up:**2013-2017:** Fenggang County No. 1 Middle School (high school)
-        :arrow_up:**2010-2013:** Fenggang County No. 4 Middle School (middle school)
-        :arrow_up:**2003-2010:** Guanba Completion Primary School (secondary schools)
+🏫 **2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (doctoral)
+        🏫 **2021-2024:** Guizhou Normal University (master's degree)
+        🏫 **2017-2021:** North China University of Water Resources and Hydropower (undergraduate)
+        🏫 **2013-2017:** Fenggang County No. 1 Middle School (high school)
+        🏫 **2010-2013:** Fenggang County No. 4 Middle School (middle school)
+        🏫 **2003-2010:** Guanba Completion Primary School (secondary schools)
 
 <div class="one">
     <img src="https://TopGreenHand.github.io/images/aoyangstudyload.jpg">
