@@ -13,11 +13,12 @@ Currently, I am a third-year master's student at **Guizhou Normal University**, 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - ***ayrookiegiser@gmail.com*** or ***aoyang@gznu.edu.cn***.
 
 <div style="text-align: center;">
-    <a href="D:\AyGithub\TopGreenHand.github.io\images\logo\QQ_QR_code.png" target="_blank"><img src="D:\AyGithub\TopGreenHand.github.io\images\logo\WeChat.png" alt="Image 2" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
-    <a href="D:\AyGithub\TopGreenHand.github.io\images\logo\QQ_QR_code.png" target="_blank"><img src="D:\AyGithub\TopGreenHand.github.io\images\logo\QQ.jpg" alt="Image 2" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
-    <a href="https://www.xiaohongshu.com/user/profile/5ea7856e000000000100076b?xhsshare=CopyLink&appuid=5ea7856e000000000100076b&apptime=1716814652" target="_blank">       <img src="D:\AyGithub\TopGreenHand.github.io\images\logo\Xiaohongshu.jpg" alt="Image 1" style="width: 38px; height: 38px; margin-right: 5px;"></a>  
-    <a href="https://space.bilibili.com/317954769?spm_id_from=333.1007.0.0" target="_blank"><img src="D:\AyGithub\TopGreenHand.github.io\images\logo\Bilibili.jpg" alt="Image 3" style="width: 38px; height: 38px;"></a>
+    <a href="https://TopGreenHand.github.io/images/logo/QQ_QR_code.png" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/WeChat.png" alt="QQ" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
+    <a href="https://TopGreenHand.github.io/images/logo/QQ_QR_code.png" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/QQ.jpg" alt="WeChat" style="width: 38px; height: 38px; margin-right: 5px;"></a> 
+    <a href="https://www.xiaohongshu.com/user/profile/5ea7856e000000000100076b?xhsshare=CopyLink&appuid=5ea7856e000000000100076b&apptime=1716814652" target="_blank">       <img src="https://TopGreenHand.github.io/images/logo/Xiaohongshu.jpg" alt="Xiaohongshu" style="width: 38px; height: 38px; margin-right: 5px;"></a>  
+    <a href="https://space.bilibili.com/317954769?spm_id_from=333.1007.0.0" target="_blank"><img src="https://TopGreenHand.github.io/images/logo/Bilibili.jpg" alt="Bilibili" style="width: 38px; height: 38px;"></a>
 </div>
+
 
 ## Academic Background
 
