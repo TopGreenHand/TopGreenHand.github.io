@@ -26,17 +26,20 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ------
 
 ## Academic Background
-    🏫 **2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (doctoral)
+- 🏫 **2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (doctoral)
 
-🏫 **2021-2024:** Guizhou Normal University (master's degree)
+- 🏫 **2021-2024:** Guizhou Normal University (master's degree)
 
-🏫 **2017-2021:** North China University of Water Resources and Hydropower (undergraduate)
+- 🏫 **2017-2021:** North China University of Water Resources and Hydropower (undergraduate)
 
-🏫 **2013-2017:** Fenggang County No. 1 Middle School (high school)
+- 🏫 **2013-2017:** Fenggang County No. 1 Middle School (high school)
 
-🏫 **2010-2013:** Fenggang County No. 4 Middle School (middle school)
+- 🏫 **2010-2013:** Fenggang County No. 4 Middle School (middle school)
 
-🏫 **2003-2010:** Guanba Completion Primary School (secondary schools)
+- 🏫 **2003-2010:** Guanba Completion Primary School (secondary schools)
+
+  
+
 <div class="one">
     <img src="https://TopGreenHand.github.io/images/aoyangstudyload.jpg">
 </div>
@@ -57,17 +60,12 @@ My research focuses on **ecohydrological remote sensing** and **ecosystem carbon
 
 ## Appreciate
 
-💡A PhD is not a race to publish papers.
-
-💡A PhD is not a way of getting a title.
-
-💡A PhD is not a pause before getting a proper job.
-
-💡A PhD is not only a period of study.
-
-💡A PhD is a way of pushing the boundary of knowledge and understanding a little bit further, by a small amount and in a small area.
-
-💡Almost no one will change the world during their PhD. But the collective research effort is what enables a few breakthrough moments.
+1. 💡A PhD is not a race to publish papers.
+2. 💡A PhD is not a way of getting a title.
+3. 💡A PhD is not a pause before getting a proper job.
+4. 💡A PhD is not only a period of study.
+5. 💡A PhD is a way of pushing the boundary of knowledge and understanding a little bit further, by a small amount and in a small area.
+6. 💡Almost no one will change the world during their PhD. But the collective research effort is what enables a few breakthrough moments.
 
 ------
 
