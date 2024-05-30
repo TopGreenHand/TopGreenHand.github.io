@@ -59,7 +59,7 @@ My research focuses on **ecohydrological remote sensing** and **ecosystem carbon
 
 ## Appreciate
 
-💡A PhD is not a race to publish papers.
+## 💡A PhD is not a race to publish papers.
 
 💡A PhD is not a way of getting a title.
 
