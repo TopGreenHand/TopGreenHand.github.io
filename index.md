@@ -26,7 +26,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ------
 
 ## Academic Background
-
 🏫 **2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (doctoral)
 
 🏫 **2021-2024:** Guizhou Normal University (master's degree)
@@ -38,7 +37,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 🏫 **2010-2013:** Fenggang County No. 4 Middle School (middle school)
 
 🏫 **2003-2010:** Guanba Completion Primary School (secondary schools)
-
 <div class="one">
     <img src="https://TopGreenHand.github.io/images/aoyangstudyload.jpg">
 </div>
@@ -59,7 +57,7 @@ My research focuses on **ecohydrological remote sensing** and **ecosystem carbon
 
 ## Appreciate
 
-## 💡A PhD is not a race to publish papers.
+💡A PhD is not a race to publish papers.
 
 💡A PhD is not a way of getting a title.
 
