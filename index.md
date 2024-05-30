@@ -51,6 +51,17 @@ My research focuses on **ecohydrological remote sensing** and **ecosystem carbon
 
 ---
 
+## Appreciate
+
+💡A PhD is not a race to publish papers.
+        💡A PhD is not a way of getting a title.
+        💡A PhD is not a pause before getting a proper job.
+        💡A PhD is not only a period of study.
+        💡A PhD is a way of pushing the boundary of knowledge and understanding a little bit further, by a small amount and in a small area.
+        💡Almost no one will change the world during their PhD. But the collective research effort is what enables a few breakthrough moments.
+
+------
+
 ## News and Updates
 
 - **April 2024:** PhD interview at Xinjiang Institute of Ecology and Geography
