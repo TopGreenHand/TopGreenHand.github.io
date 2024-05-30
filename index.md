@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ------
 
 ## Academic Background
-🏫 **2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (doctoral)
+  🏫 **2024-Future:** Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences (doctoral)
 
 🏫 **2021-2024:** Guizhou Normal University (master's degree)
 
